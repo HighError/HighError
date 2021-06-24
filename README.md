@@ -11,4 +11,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/higherrorua/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](www.linkedin.com/in/vitaliy-hordiyk)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higherror&count_private=true&show_icons=true?theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higherror&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=higherror)](https://github.com/anuraghazra/github-readme-stats)
