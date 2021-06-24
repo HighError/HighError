@@ -1,4 +1,4 @@
-[![Header](https://github.com/HighError/HighError/blob/main/assets/HighError.png)](https://www.instagram.com/higherrorua/)
+![Header](https://github.com/HighError/HighError/blob/main/assets/HighError.png)
 
 ### Languages and Tools (Learing)
 ![C#](https://img.shields.io/badge/-c%23-000000?style=for-the-badge&logo=c-sharp&logoColor=a37cdd)
