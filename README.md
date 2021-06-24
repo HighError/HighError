@@ -10,6 +10,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)](https://twitter.com/higherrorua)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/higherrorua/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/vitaliy-hordiyk/)
+[![ItchIO](https://img.shields.io/badge/Itch%2EIO-000000?style=for-the-badge&logo=Itch%2EIO&logoColor=FA5C5C)](https://higherrorua.itch.io/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higherror&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
