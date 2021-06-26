@@ -1,6 +1,6 @@
 ![Header](https://github.com/HighError/HighError/blob/main/assets/HighError.png)
 
-### Languages and Tools (Learing)
+### Languages and Tools (Learning)
 ![C#](https://img.shields.io/badge/-c%23-000000?style=for-the-badge&logo=c-sharp&logoColor=a37cdd)
 ![Unity3D](https://img.shields.io/badge/-unity3D-000000?style=for-the-badge&logo=Unity)
 ![Dart](https://img.shields.io/badge/-dart-000000?style=for-the-badge&logo=Dart&logoColor=0175C2)
