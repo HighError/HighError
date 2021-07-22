@@ -13,11 +13,10 @@
 [![ItchIO](https://img.shields.io/badge/Itch%2EIO-000000?style=for-the-badge&logo=Itch%2EIO&logoColor=FA5C5C)](https://higherrorua.itch.io/)
 
 ### My Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=higherror&repo=EvilCraft-Web&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=higherror&repo=EvilCraft-Web&theme=radical)](https://github.com/HighError/EvilCraft-Web)
 
 ### GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higherror&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higherror&count_private=true&show_icons=true&theme=radical)](https://github.com/HighError)
 
 ### WakaTime
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HighError&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HighError&layout=compact&theme=radical)](https://wakatime.com/@HighError)
