@@ -5,6 +5,7 @@
 ![Unity3D](https://img.shields.io/badge/-unity3D-000000?style=for-the-badge&logo=Unity)
 ![Dart](https://img.shields.io/badge/-dart-000000?style=for-the-badge&logo=Dart&logoColor=0175C2)
 ![Flutter](https://img.shields.io/badge/-flutter-000000?style=for-the-badge&logo=Flutter&logoColor=02569B)
+![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=Python&logoColor=3776AB)
 
 ### Follow me
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)](https://twitter.com/higherrorua)
