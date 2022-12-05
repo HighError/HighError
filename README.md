@@ -1,11 +1,9 @@
 ![Header](https://github.com/HighError/HighError/blob/main/assets/HighError.png)
 
 ### Languages and Tools (Learning)
-![C#](https://img.shields.io/badge/-c%23-000000?style=for-the-badge&logo=c-sharp&logoColor=a37cdd)
-![Unity3D](https://img.shields.io/badge/-unity3D-000000?style=for-the-badge&logo=Unity)
-![Dart](https://img.shields.io/badge/-dart-000000?style=for-the-badge&logo=Dart&logoColor=0175C2)
-![Flutter](https://img.shields.io/badge/-flutter-000000?style=for-the-badge&logo=Flutter&logoColor=02569B)
-![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=Python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/-javascript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![React.js](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=React&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=Express&logoColor=FFFFFF)
 
 ### Follow me
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)](https://twitter.com/higherrorua)
