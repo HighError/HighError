@@ -3,7 +3,7 @@
 ### Languages and Tools (Learning)
 ![JavaScript](https://img.shields.io/badge/-javascript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ![React.js](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=React&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=Express&logoColor=FFFFFF)
+![Express.js](https://img.shields.io/badge/-express.js-000000?style=for-the-badge&logo=Express&logoColor=FFFFFF)
 
 ### Follow me
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)](https://twitter.com/higherrorua)
