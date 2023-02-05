@@ -1,9 +1,16 @@
 ![Header](https://github.com/HighError/HighError/blob/main/assets/HighError.png)
 
-### Languages and Tools (Learning)
+### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-javascript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
+
 ![React.js](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/-express.js-000000?style=for-the-badge&logo=Express&logoColor=FFFFFF)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF)
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=47A248)
+
+![Visual Studio Code](https://img.shields.io/badge/-VS&nbsp;Code-000000?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)
 
 ### Follow me
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)](https://twitter.com/higherrorua)
