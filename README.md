@@ -20,9 +20,7 @@
 
 ### My Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=higherror&repo=EvilCraft-Web&theme=radical)](https://github.com/HighError/EvilCraft-Web)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=higherror&repo=Silent-Revolution-GameJam-prototype&theme=radical)](https://github.com/HighError/Silent-Revolution-GameJam-prototype)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=higherror&repo=Eviloma-Ukraine-News-Client&theme=radical)](https://github.com/HighError/Eviloma-Ukraine-News-Client)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=higherror&repo=Eviloma-Ukraine-News-Server&theme=radical)](https://github.com/HighError/Eviloma-Ukraine-News-Server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=higherror&repo=FamilyDashboard&theme=radical)](https://github.com/HighError/FamilyDashboard)
 
 ### GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higherror&count_private=true&show_icons=true&theme=radical)](https://github.com/HighError)
