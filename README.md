@@ -24,7 +24,7 @@
 
 ## GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/higherror?cardType=level&theme=tokyonight&preferLogin=false&Ring=5620C0)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://github-readme-stats.vercel.app/api?username=higherror&cardType=level&theme=tokyonight&preferLogin=false&Ring=5620C0)](https://git.io/awesome-stats-card)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=higherror&exclude_repo=&hide=ShaderLab,HLSL&langs_count=5&theme=tokyonight)
 
