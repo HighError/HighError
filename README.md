@@ -26,8 +26,12 @@
 
 [![My Awesome Stats](https://github-readme-stats.vercel.app/api?username=higherror&cardType=level&theme=tokyonight&preferLogin=false&Ring=5620C0)](https://git.io/awesome-stats-card)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=higherror&exclude_repo=&hide=ShaderLab,HLSL&langs_count=5&theme=tokyonight)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=higherror&exclude_repo=&hide=ShaderLab,HLSL&langs_count=5&theme=tokyonight)]
 
 ## WakaTime
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HighError&layout=compact&theme=tokyonight)](https://wakatime.com/@HighError)
+
+## Code Wars
+
+[![Code Wars](https://www.codewars.com/users/HighError/badges/large)](https://www.codewars.com/users/HighError)
