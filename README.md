@@ -21,12 +21,13 @@
 ## My Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=higherror&repo=FamilyDashboard&theme=tokyonight)](https://github.com/HighError/FamilyDashboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=higherror&repo=eviloma-id&theme=tokyonight)](https://github.com/HighError/eviloma-id)
 
 ## GitHub Stats
 
 [![My Awesome Stats](https://github-readme-stats.vercel.app/api?username=higherror&cardType=level&theme=tokyonight&preferLogin=false&Ring=5620C0)](https://git.io/awesome-stats-card)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=higherror&exclude_repo=&hide=ShaderLab,HLSL&langs_count=5&theme=tokyonight)]
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=higherror&exclude_repo=&hide=ShaderLab,HLSL&langs_count=5&theme=tokyonight)
 
 ## WakaTime
 
