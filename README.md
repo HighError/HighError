@@ -1,38 +1,40 @@
-![Header](https://github.com/HighError/HighError/blob/main/assets/HighError.png)
+# 💫 About Me:
+🔭 Developing with Next.js + TailwindCSS + TypeScript<br>🤝 Need help improving UI/UX skills<br>🌱 Learning SSR with Next.js and TypeScript<br>⚡ Fun fact: I play Valorant and find inspiration for programming in it.
 
-## Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/-javascript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/higherrorua) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vitaliy-hordiyk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/higherror) 
 
-![React.js](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=React&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/-express.js-000000?style=for-the-badge&logo=Express&logoColor=FFFFFF)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF)
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=47A248)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 
-## Follow me
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)](https://twitter.com/higherrorua)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/higherrorua/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/vitaliy-hordiyk/)
-[![ItchIO](https://img.shields.io/badge/Itch%2EIO-000000?style=for-the-badge&logo=Itch%2EIO&logoColor=FA5C5C)](https://higherrorua.itch.io/)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 
-## My Projects
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=higherror&repo=FamilyDashboard&theme=tokyonight)](https://github.com/HighError/FamilyDashboard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=higherror&repo=eviloma-id&theme=tokyonight)](https://github.com/HighError/eviloma-id)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
-## GitHub Stats
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=higherror&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=higherror&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=higherror&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-[![My Awesome Stats](https://github-readme-stats.vercel.app/api?username=higherror&cardType=level&theme=tokyonight&preferLogin=false&Ring=5620C0)](https://git.io/awesome-stats-card)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=higherror&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=higherror&exclude_repo=&hide=ShaderLab,HLSL&langs_count=5&theme=tokyonight)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=higherror&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-## WakaTime
+---
+[![](https://visitcount.itsvg.in/api?id=higherror&icon=5&color=6)](https://visitcount.itsvg.in)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HighError&layout=compact&theme=tokyonight)](https://wakatime.com/@HighError)
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/higherror) 
 
-## Code Wars
-
-[![Code Wars](https://www.codewars.com/users/HighError/badges/large)](https://www.codewars.com/users/HighError)
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
