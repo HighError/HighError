@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Developing with Next.js + TailwindCSS + TypeScript<br>🤝 Need help improving UI/UX skills<br>🌱 Learning SSR with Next.js and TypeScript<br>⚡ Fun fact: I play Valorant and find inspiration for programming in it.
+🔭 Developing with Next.js + TailwindCSS + TypeScript<br>🤝 Need help improving UI/UX skills<br>🌱 Learning SSR with Next.js and TypeScript<br>
 
 
 ## 🌐 Socials:
