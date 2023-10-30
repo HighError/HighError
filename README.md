@@ -37,7 +37,7 @@
 ## CMS 
 ![Strapi](https://img.shields.io/badge/strapi-4945FF.svg?style=for-the-badge&logo=Strapi&logoColor=white) 
 
-# Others
+## Others
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
