@@ -44,19 +44,22 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=higherror&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=higherror&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=higherror&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=higherror&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=higherror&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=higherror&theme=radical&no-frame=false&no-bg=true&margin-w=4)<br/>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=higherror&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=higherror&limit=5&theme=radical&combine_all_yearly_contributions=true)<br/>
+
+## 🤖 AI Stats
+![Codeium](https://codeium.com/profile/higherror/card.png)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=higherror&icon=5&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=higherror&icon=5&color=6)](https://visitcount.itsvg.in)<br/>
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/higherror) 
+## 💰 You can help me by Donating
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/higherror) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
