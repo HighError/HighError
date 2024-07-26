@@ -5,7 +5,7 @@
 🤝 Need help improving UI/UX skills<br>
 🌱 Learning SSR with Next.js and TypeScript<br>
 
-![](https://komarev.com/ghpvc/?username=higherror&color=blueviolet)
+![HighError](https://count.getloli.com/get/@HighError?theme=rule34)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/higherrorua)
