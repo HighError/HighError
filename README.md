@@ -1,20 +1,3 @@
-<style>
-  .tech-container {
-    display: flex;
-    gap: 5px;
-  }
-  .tech-container > a > img{
-    border-radius: 99999px;
-    width: 40px;
-    height: 40px;
-    background-color: #191919;
-    padding: 4px;
-  }
-  .tech-container > .white{
-    background-color: #ebebeb;
-  }
-</style>
-
 <a href='https://stand-with-ukraine.pp.ua' targer="_blank"><img alt="Stand With Ukraine" src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg"/></a>
 
 <p align="center"><img src="hello.gif" height="200"/></p>
@@ -40,50 +23,50 @@
 <h2 align="center">Skill Set</h2>
 
 <h3 align="center">Programming Languages</h3>
-<div class="tech-container">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.simpleicons.org/javascript"></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.simpleicons.org/typescript"></a>
+<div style="display: flex; gap: 5px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="border-radius: 99999px; width: 40px; height: 40px; background-color: #191919; padding: 4px;" src="https://cdn.simpleicons.org/javascript"></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img style="border-radius: 99999px; width: 40px; height: 40px; background-color: #191919; padding: 4px;" src="https://cdn.simpleicons.org/typescript"></a>
 </div>
 
 <h3 align="center">Framework</h3>
-<div class="tech-container">
-  <a href="https://react.dev/" target="_blank"><img src="https://cdn.simpleicons.org/react"></a>
-  <a href="https://nextjs.org/" target="_blank"><img class="white" src="https://cdn.simpleicons.org/next.js"></a>
-  <a href="https://astro.build/" target="_blank"><img src="https://cdn.simpleicons.org/astro"></a>
+<div style="display: flex; gap: 5px;">
+  <a href="https://react.dev/" target="_blank"><img style="border-radius: 99999px; width: 40px; height: 40px; background-color: #191919; padding: 4px;" src="https://cdn.simpleicons.org/react"></a>
+  <a href="https://nextjs.org/" target="_blank"><img style="border-radius: 99999px; width: 40px; height: 40px; background-color: #ebebeb; padding: 4px;" src="https://cdn.simpleicons.org/next.js"></a>
+  <a href="https://astro.build/" target="_blank"><img style="border-radius: 99999px; width: 40px; height: 40px; background-color: #191919; padding: 4px;" src="https://cdn.simpleicons.org/astro"></a>
 </div>
 
 <h3 align="center">UI</h3>
-<div class="tech-container">
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.simpleicons.org/tailwindcss"></a>
-  <a href="https://ui.shadcn.com/" target="_blank"><img class="white" src="https://cdn.simpleicons.org/shadcnui"></a>
-  <a href="https://mantine.dev/" target="_blank"><img src="https://cdn.simpleicons.org/mantine"></a>
+<div style="display: flex; gap: 5px;">
+  <a href="https://tailwindcss.com/" target="_blank"><img style="border-radius: 99999px; width: 40px; height: 40px; background-color: #191919; padding: 4px;" src="https://cdn.simpleicons.org/tailwindcss"></a>
+  <a href="https://ui.shadcn.com/" target="_blank"><img style="border-radius: 99999px; width: 40px; height: 40px; background-color: #ebebeb; padding: 4px;" src="https://cdn.simpleicons.org/shadcnui"></a>
+  <a href="https://mantine.dev/" target="_blank"><img style="border-radius: 99999px; width: 40px; height: 40px; background-color: #191919; padding: 4px;" src="https://cdn.simpleicons.org/mantine"></a>
 </div>
 
 <h3 align="center">Libraries</h3>
-<div class="tech-container">
-  <a href="https://orm.drizzle.team/" target="_blank"><img src="https://cdn.simpleicons.org/drizzle"></a>
-  <a href="https://tanstack.com/query/latest" target="_blank"><img src="https://cdn.simpleicons.org/reactquery"></a>
+<div style="display: flex; gap: 5px;">
+  <a href="https://orm.drizzle.team/" target="_blank"><img style="border-radius: 99999px; width: 40px; height: 40px; background-color: #191919; padding: 4px;" src="https://cdn.simpleicons.org/drizzle"></a>
+  <a href="https://tanstack.com/query/latest" target="_blank"><img style="border-radius: 99999px; width: 40px; height: 40px; background-color: #191919; padding: 4px;" src="https://cdn.simpleicons.org/reactquery"></a>
 </div>
 
 <h3 align="center">Tools</h3>
-<div class="tech-container">
-  <a href="https://www.npmjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/npm"></a>
-  <a href="https://classic.yarnpkg.com/lang/en/" target="_blank"><img src="https://cdn.simpleicons.org/yarn"></a>
-  <a href="https://pnpm.io/" target="_blank"><img src="https://cdn.simpleicons.org/pnpm"></a>
-  <a href="https://bun.sh/" target="_blank"><img src="https://cdn.simpleicons.org/bun/white"></a>
-  <a href="https://biomejs.dev/" target="_blank"><img src="https://cdn.simpleicons.org/biome"></a>
+<div style="display: flex; gap: 5px;">
+  <a href="https://www.npmjs.com/" target="_blank"><img style="border-radius: 99999px; width: 40px; height: 40px; background-color: #191919; padding: 4px;" src="https://cdn.simpleicons.org/npm"></a>
+  <a href="https://classic.yarnpkg.com/lang/en/" target="_blank"><img style="border-radius: 99999px; width: 40px; height: 40px; background-color: #191919; padding: 4px;" src="https://cdn.simpleicons.org/yarn"></a>
+  <a href="https://pnpm.io/" target="_blank"><img style="border-radius: 99999px; width: 40px; height: 40px; background-color: #191919; padding: 4px;" src="https://cdn.simpleicons.org/pnpm"></a>
+  <a href="https://bun.sh/" target="_blank"><img style="border-radius: 99999px; width: 40px; height: 40px; background-color: #191919; padding: 4px;" src="https://cdn.simpleicons.org/bun/white"></a>
+  <a href="https://biomejs.dev/" target="_blank"><img style="border-radius: 99999px; width: 40px; height: 40px; background-color: #191919; padding: 4px;" src="https://cdn.simpleicons.org/biome"></a>
 </div>
 
 <h3 align="center">Databases</h3>
-<div class="tech-container">
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.simpleicons.org/postgresql"></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.simpleicons.org/mongodb"></a>
+<div style="display: flex; gap: 5px;">
+  <a href="https://www.postgresql.org/" target="_blank"><img style="border-radius: 99999px; width: 40px; height: 40px; background-color: #191919; padding: 4px;" src="https://cdn.simpleicons.org/postgresql"></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img style="border-radius: 99999px; width: 40px; height: 40px; background-color: #191919; padding: 4px;" src="https://cdn.simpleicons.org/mongodb"></a>
 </div>
 
 <h3 align="center">Other</h3>
-<div class="tech-container">
-  <a href="https://strapi.io/" target="_blank"><img src="https://cdn.simpleicons.org/strapi"></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker"></a>
-  <a href="https://www.portainer.io/" target="_blank"><img src="https://cdn.simpleicons.org/portainer"></a>
-  <a href="https://coolify.io/" target="_blank"><img src="https://cdn-1.webcatalog.io/catalog/coolify/coolify-icon-filled-256.png"></a>
+<div style="display: flex; gap: 5px;">
+  <a href="https://strapi.io/" target="_blank"><img style="border-radius: 99999px; width: 40px; height: 40px; background-color: #191919; padding: 4px;" src="https://cdn.simpleicons.org/strapi"></a>
+  <a href="https://www.docker.com/" target="_blank"><img style="border-radius: 99999px; width: 40px; height: 40px; background-color: #191919; padding: 4px;" src="https://cdn.simpleicons.org/docker"></a>
+  <a href="https://www.portainer.io/" target="_blank"><img style="border-radius: 99999px; width: 40px; height: 40px; background-color: #191919; padding: 4px;" src="https://cdn.simpleicons.org/portainer"></a>
+  <a href="https://coolify.io/" target="_blank"><img style="border-radius: 99999px; width: 40px; height: 40px; background-color: #191919; padding: 4px;" src="https://cdn-1.webcatalog.io/catalog/coolify/coolify-icon-filled-256.png"></a>
 </div>
