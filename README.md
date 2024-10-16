@@ -89,7 +89,7 @@
 
 <p align="center">
   <img src="click.gif" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=higherror&theme=catppuccin_mocha&layout=compact&langs_count=6&custom_title=Top%206%20Language" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=higherror&theme=catppuccin_mocha&layout=compact&langs_count=6&custom_title=Top%206%20Languages" height="160"/>
 </p>
 
 <p align="center">
