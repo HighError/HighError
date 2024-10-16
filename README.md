@@ -87,10 +87,12 @@
   <img width="450" src="https://github-contributor-stats.vercel.app/api?username=higherror&limit=5&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&combine_all_yearly_contributions=true"/>
 </p>
 
-<div height="160" style="display: flex; gap: 8px; justify-content: center; margin-bottom: 20px">
-  <img src="click.gif" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=higherror&theme=catppuccin_mocha&layout=compact&langs_count=6&custom_title=Top%206%20Language" height="160"/>
-</div>
+<p align="center">
+  <div height="160" style="display: flex; gap: 8px;">
+    <img src="click.gif" height="160"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=higherror&theme=catppuccin_mocha&layout=compact&langs_count=6&custom_title=Top%206%20Language" height="160"/>
+  </div>
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=higherror&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&no-frame=false&no-bg=true&margin-w=4"/>
