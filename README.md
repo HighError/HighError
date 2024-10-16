@@ -96,6 +96,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=higherror&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&no-frame=false&no-bg=true&margin-w=4"/>
 </p>
 
+<h2 align="center">Holopin</h2>
+<a href="https://holopin.io/@higherror"><img src="https://holopin.me/higherror"></a>
+
 <h2 align="center">Socials</h2>
 <div style="display: flex; gap: 10px; justify-content: center;">
   <a href="https://instagram.com/higherrorua"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/instagram"></a>
