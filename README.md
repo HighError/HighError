@@ -17,8 +17,8 @@
 
 <table>
   <tr>
-    <td w="100"><img src="click.gif" height="100"/></td>
-    <td w="100%-100">
+    <td width="100px"><img src="click.gif" height="100"/></td>
+    <td width="calc(100%-100px)">
       <!--WakaTime-Start-->
       <!--WakaTime-End-->
     </td>
