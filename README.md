@@ -12,3 +12,15 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/higherror/higherror/output/github-contribution-grid-snake.svg">
   <img alt="Snake" src="https://raw.githubusercontent.com/higherror/higherror/output/github-contribution-grid-snake.svg">
 </picture>
+
+<h2 align="center">Wakatime stats</h2>
+
+<table>
+  <tr>
+    <td w="100"><img src="click.gif" height="100"/></td>
+    <td w="100%-100">
+      <!--WakaTime-Start-->
+      <!--WakaTime-End-->
+    </td>
+  </tr>
+</table>
