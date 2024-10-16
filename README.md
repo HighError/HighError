@@ -19,7 +19,7 @@
   <tr>
     <td width="160"><img src="click.gif" height="160"/></td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=higherror&theme=catppuccin_mocha&layout=compact&langs_count=6&custom_title=Top 6 Language"/>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=higherror&theme=catppuccin_mocha&layout=compact&langs_count=6&custom_title=Top%206%20Language"/>
     </td>
   </tr>
 </table>
