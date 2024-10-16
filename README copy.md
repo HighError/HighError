@@ -1,10 +1,3 @@
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/higherrorua)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vitaliy-hordiyk)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/higherror)
-
-
 # 📊 Stats:
 
 ## 🐙 GitHub:
