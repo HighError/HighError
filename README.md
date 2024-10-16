@@ -88,10 +88,8 @@
 </p>
 
 <p align="center">
-  <div height="160" style="display: flex; gap: 8px;">
-    <img src="click.gif" height="160"/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=higherror&theme=catppuccin_mocha&layout=compact&langs_count=6&custom_title=Top%206%20Language" height="160"/>
-  </div>
+  <img src="click.gif" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=higherror&theme=catppuccin_mocha&layout=compact&langs_count=6&custom_title=Top%206%20Language" height="160"/>
 </p>
 
 <p align="center">
@@ -102,8 +100,8 @@
 <a href="https://holopin.io/@higherror"><img src="https://holopin.me/higherror"></a>
 
 <h2 align="center">Socials</h2>
-<div style="display: flex; gap: 10px; justify-content: center;">
+<p align="center">
   <a href="https://instagram.com/higherrorua"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/instagram"></a>
   <a href="https://linkedin.com/in/vitaliy-hordiyk"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/linkedin"></a>
   <a href="https://twitter.com/higherror"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/x/white"></a>
-</div>
+</p>
