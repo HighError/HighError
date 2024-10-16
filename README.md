@@ -15,7 +15,7 @@
 
 <h2 align="center">Skill Set</h2>
 
-<table>
+<table align="center">
   <tr>
     <td>Languages</td>
     <td>
