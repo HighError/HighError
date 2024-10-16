@@ -27,7 +27,7 @@
     <td>Frameworks</td>
     <td>
       <a href="https://react.dev/"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/react"></a>
-      <a href="https://nextjs.org/"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/next.js"></a>
+      <a href="https://nextjs.org/"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/next.js/white"></a>
       <a href="https://astro.build/"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/astro"></a>
     </td>
   </tr>
@@ -35,7 +35,7 @@
     <td>UI</td>
     <td>
       <a href="https://tailwindcss.com/"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/tailwindcss"></a>
-      <a href="https://ui.shadcn.com/"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/shadcnui"></a>
+      <a href="https://ui.shadcn.com/"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/shadcnui/white"></a>
       <a href="https://mantine.dev/"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/mantine"></a>
     </td>
   </tr>
