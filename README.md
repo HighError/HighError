@@ -101,7 +101,7 @@
 
 <h2 align="center">Socials</h2>
 <p align="center">
-  <a href="https://instagram.com/higherrorua"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/instagram"></a>
-  <a href="https://linkedin.com/in/vitaliy-hordiyk"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/linkedin"></a>
-  <a href="https://twitter.com/higherror"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/x/white"></a>
+  <a href="https://bsky.app/profile/higherror.bsky.social" targer="_blank"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/bluesky"></a>
+  <a href="https://instagram.com/higherrorua" targer="_blank"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/instagram"></a>
+  <a href="https://twitter.com/higherrorua" targer="_blank"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/x/white"></a>
 </p>
