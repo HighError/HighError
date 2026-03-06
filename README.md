@@ -28,15 +28,22 @@
     <td>
       <a href="https://react.dev/"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/react"></a>
       <a href="https://nextjs.org/"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/next.js/white"></a>
+      <a href="https://tanstack.com/start/latest"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/tanstack/white"></a>
       <a href="https://astro.build/"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/astro"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Backends</td>
+    <td>
+      <a href="https://elysiajs.com/"><img style="widtd: 40px; height: 40px;" src="https://avatars.githubusercontent.com/u/119793569?s=200&v=4"></a>
     </td>
   </tr>
   <tr>
     <td>UI</td>
     <td>
+      <a href="https://mantine.dev/"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/mantine"></a>
       <a href="https://tailwindcss.com/"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/tailwindcss"></a>
       <a href="https://ui.shadcn.com/"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/shadcnui/white"></a>
-      <a href="https://mantine.dev/"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/mantine"></a>
     </td>
   </tr>
   <tr>
@@ -68,7 +75,7 @@
     <td>
       <a href="https://strapi.io/"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/strapi"></a>
       <a href="https://www.docker.com/"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/docker"></a>
-      <a href="https://www.portainer.io/"><img style="widtd: 40px; height: 40px;" src="https://cdn.simpleicons.org/portainer"></a>
+      <a href="https://coolify.io/"><img style="widtd: 40px; height: 40px;" src="https://avatars.githubusercontent.com/u/60715044?s=200&v=4"></a>
     </td>
   </tr>
 </table>
@@ -76,24 +83,16 @@
 <h2 align="center">Stats</h2>
 
 <p align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=higherror&theme=catppuccin_mocha&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true"/>
+  <img width="450" src="https://github-readme-stats-fast.vercel.app/api?username=higherror&theme=catppuccin_mocha&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true"/>
 </p>
 
 <p align="center">
-  <img width="450" src="https://github-readme-streak-stats.herokuapp.com?user=higherror&theme=catppuccin-mocha"/>
-</p>
-
-<p align="center">
-  <img width="450" src="https://github-contributor-stats.vercel.app/api?username=higherror&limit=5&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&combine_all_yearly_contributions=true"/>
+  <img width="450" src="https://github-readme-stats-fast.vercel.app/api/streak?username=higherror&theme=catppuccin_mocha&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true"/>
 </p>
 
 <p align="center">
   <img src="click.gif" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=higherror&theme=catppuccin_mocha&layout=compact&langs_count=6&custom_title=Top%206%20Languages" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=higherror&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&no-frame=false&no-bg=true&margin-w=4"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=higherror&theme=catppuccin_mocha&layout=compact&langs_count=6&custom_title=Top%206%20Languages" height="160"/>
 </p>
 
 <h2 align="center">Holopin</h2>
